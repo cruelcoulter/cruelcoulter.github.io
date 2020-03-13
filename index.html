@@ -1,21 +1,3 @@
-<<<<<<< HEAD
----
-layout: default
-title: Home
----
-<h1>Welcome to my whiskey journal</h1>
-<p>This is content</p>
-<ul>
-    {% for item in site.data.bourbon %}
-    <li>Name: {{ item.name }}</li>
-    {% endfor %}
-</ul>
-<ul>
-    {% for item in site.data.bourbon %}
-	<li><a href="/{{item.Site_URL}}">{{item.Name}}</a></li>
-	{% endfor %}
-</ul>
-=======
 <!doctype html>
 <html lang="en">
   <head>
@@ -48,10 +30,11 @@ title: Home
       </li>
     </ul>
     <h1>My Whiskey Journal</h1>
-    <div class="container-fluid">
-        <img src="IMG_20191115_152953483.jpg" alt="Four Roses Small Batch" height="2016" width="1512">
-    </div>
-
+  <ul>
+    {% for item in site.data.bourbon %}
+    <li><a href="/{{item.Site_URL}}">{{item.Name}}</a></li>
+    {% endfor %}
+  </ul>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
@@ -59,4 +42,3 @@ title: Home
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
   </body>
 </html>
->>>>>>> 1c828e49df9d98685ae545a4db8191c22851dc94
