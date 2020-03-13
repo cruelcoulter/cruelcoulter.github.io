@@ -1,0 +1,21 @@
+---
+layout: default
+title: My bourbons
+id: 2
+---
+{% assign bourbon = site.data.bourbon[page.id] %}
+<h1>{{bourbon.name}}</h1>
+<h2>General</h2>
+<p><a href="{{bourbon.URL}}">Website</a></p>
+<p>Distiller: {{bourbon.Distiller}}</p>
+<p>Location: {{bourbon.Location}}</p>
+<p>MSRP: {{bourbon.MSRP}}</p>
+<p>Mash bill: {{bourbon.Mash_Bill}}</p>
+<h2>My notes</h2>
+<p>Date purchased: {{bourbon.Date_purchased}}</p>
+<p>Where purchased: {{bourbon.Where_purchased}}</p>
+<p>Purchase price: {{bourbon.Purchase_price}}</p>
+<p>Size: {{bourbon.size}}</p>
+<p>Date finished: {{bourbon.Date_finished}}</p>
+<p>Notes: {{bourbon.Notes}}</p>
+<img src="{{bourbon.Image_URL}}" alt="{{bourbon.name}}">

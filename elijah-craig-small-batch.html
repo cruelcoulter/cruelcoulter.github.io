@@ -1,0 +1,11 @@
+---
+layout: default
+title: test
+---
+<h1>This is a test</h1>
+<p>This is content</p>
+<ul>
+    {% for item in site.data.bourbon %}
+    <li>Name: {{ item.name }}</li>
+    {% endfor %}
+</ul>

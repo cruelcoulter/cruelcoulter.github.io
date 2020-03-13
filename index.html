@@ -1,0 +1,16 @@
+---
+layout: default
+title: Home
+---
+<h1>Welcome to my whiskey journal</h1>
+<p>This is content</p>
+<ul>
+    {% for item in site.data.bourbon %}
+    <li>Name: {{ item.name }}</li>
+    {% endfor %}
+</ul>
+<ul>
+    {% for item in site.data.bourbon %}
+	<li><a href="/{{item.Site_URL}}">{{item.Name}}</a></li>
+	{% endfor %}
+</ul>

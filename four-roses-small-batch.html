@@ -1,0 +1,10 @@
+---
+layout: default
+title: test 2
+id: 2
+---
+<h1>{{bourbon.name}}</h1>
+{% assign bourbon = site.data.bourbon[page.id] %}
+<p><a href="{{bourbon.URL}}">Website</a></p>
+<p>Distiller: {{bourbon.Distiller}}</p>
+<p>{{bourbon.MSRP}}</p>
