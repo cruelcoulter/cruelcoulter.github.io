@@ -1,89 +1,25 @@
-<<<<<<< HEAD
 ---
 layout: default
-title: My bourbons
-id: 2
+title: name
+id: 0
 ---
-{% assign bourbon = site.data.bourbon[page.id] %}
-<h1>{{bourbon.name}}</h1>
+{% assign id = site.data.bourbons[page.id] %}
+<h1>{{id.Name}}</h1>
 <h2>General</h2>
-<p><a href="{{bourbon.URL}}">Website</a></p>
-<p>Distiller: {{bourbon.Distiller}}</p>
-<p>Location: {{bourbon.Location}}</p>
-<p>MSRP: {{bourbon.MSRP}}</p>
-<p>Mash bill: {{bourbon.Mash_Bill}}</p>
+<p><a href="{{id.URL}}">Website</a></p>
+<p>Distiller: {{id.Distiller}}</p>
+<p>Location: {{id.Location}}</p>
+<p>MSRP: {{id.MSRP}}</p>
+<p>Proof: {{id.Proof}}</p>
+<p>Mash bill: {{id.Mash_Bill}}</p>
+<p>Age: {{id.Age}}</p>
 <h2>My notes</h2>
-<p>Date purchased: {{bourbon.Date_Purchased}}</p>
-<p>Where purchased: {{bourbon.Where_Purchased}}</p>
-<p>Purchase price: {{bourbon.Purchase_Price}}</p>
-<p>Size: {{bourbon.Size}}</p>
-<p>Batch: {{bourbon.Batch}}</p>
-<p>Bottle: {{bourbon.Bottle}}</p>
-<p>Date finished: {{bourbon.Date_Finished}}</p>
-<p>Notes: {{bourbon.Notes}}</p>
-<img src="{{bourbon.Image_URL}}" alt="{{bourbon.Name}}">
-=======
-<!doctype html>
-<html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
-    <title>Brand name</title>
-  </head>
-  <body>
-    <ul class="nav">
-      <li class="nav=item">
-        <a class="nav-link" href="https://cruelcoulter.github.io/">Home</a>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Whiskeys</a>
-        <div class="dropdown-menu">
-          <a class="dropdown-item" href="#">Whiskey 1</a>
-          <a class="dropdown-item" href="#">Whiskey 2</a>
-        </div>
-      </li>
-      <li class="nav=item">
-        <a class="nav-link" href="https://cruelcoulter.com/family">Family history</a>
-      </li>
-      <li class="nav=item">
-        <a class="nav-link" href="https://cruelcoulter.com/civilwar">Civil War letters</a>
-      </li>
-    </ul>
-    <h1>Brand name</h1>
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-1"><!--placeholder--></div>
-            <div class="col-4">
-                <p><strong>Brand:</strong> </p>
-                <p><strong>Proof:</strong> </p>
-                <p><strong>Date Purchased:</strong> </p>
-                <p><strong>Where Purchased:</strong> </p>
-                <p><strong>Size:</strong> </p>
-                <p><strong>Cost:</strong> </p>
-                <p><strong>Mash bill:</strong> </p>
-                <p><strong>Where distilled:</strong> </p>
-                <p><strong>Production info:</strong> </p>
-                <p><strong>Notes:</strong> </p>
-                <p><strong>Date finished:</strong> </p>
-                <p><strong>Reviews/Product page:</strong> </p>
-            </div>
-            <div class="col-4">
-                Photo here
-            </div>
-            <div class="col-3"><!--placeholder--></div>
-        </div>
-    </div>
-
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-  </body>
-</html>
->>>>>>> 1c828e49df9d98685ae545a4db8191c22851dc94
+<p>Date purchased: {{id.Date_Purchased}}</p>
+<p>Where purchased: {{id.Where_Purchased}}</p>
+<p>Purchase price: {{id.Purchase_Price}}</p>
+<p>Size: {{id.Size}}</p>
+<p>Batch: {{id.Batch}}</p>
+<p>Bottle: {{id.Bottle}}</p>
+<p>Date finished: {{id.Date_Finished}}</p>
+<p>Notes: {{id.Notes}}</p>
+<img src="{{id.Image_URL}}" alt="{{id.Name}}">

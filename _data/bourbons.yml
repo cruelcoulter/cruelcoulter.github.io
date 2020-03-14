@@ -1,0 +1,57 @@
+1:
+  Site_URL: elijah-craig-small-batch.html
+  Name: Elijah Craig Small Batch
+  URL: https://elijahcraig.com/small-batch
+  Distiller: Heaven Hill
+  Location: Bardstown KY
+  MSRP: null
+  Proof: 94
+  Mash_Bill: 78% Corn 10% Rye 12% Malted Barley per Breaking Bourbon
+  Age: null
+  Size: 750ml
+  Date_Purchased: 3/4/2020
+  Purchase_Price: gift
+  Where_Purchased: gift
+  Date_finished: null
+  Image_URL: null
+  Notes: null
+  Batch: null
+  Bottle: null
+2:
+  Site_URL: four-roses-small-batch.html
+  Name: Four Roses Small Batch
+  URL: https://fourrosesbourbon.com/bourbon/small-batch/
+  Distiller: something
+  Location: somewhere
+  MSRP: 23.99
+  Proof: 101
+  Mash_Bill: null
+  Age: null
+  Size: 750ml
+  Date_Purchased: 3/4/2020
+  Purchase_Price: gift
+  Where_Purchased: gift
+  Date_finished: null
+  Image_URL: null
+  Notes: null
+  Batch: null
+  Bottle: null
+3:
+  Site_URL: old-bardstown.html
+  Name: Old Bardstown Bottled in Bond
+  URL: https://www.kentuckybourbonwhiskey.com/the-whiskeys/old-bardstown-bottled-in-bond/
+  Distiller: Willett
+  Location: Bardstown, KY
+  MSRP: 23.99
+  Proof: 101
+  Mash_Bill: null
+  Age: null
+  Size: 750ml
+  Date_Purchased: 3/4/2020
+  Purchase_Price: gift
+  Where_Purchased: gift
+  Date_finished: null
+  Image_URL: null
+  Notes: null
+  Batch: null
+  Bottle: null

@@ -1,21 +1,25 @@
 ---
 layout: default
-title: Ol Bardstown
-id: 2
+title: Old Bardstown
+id: 3
 ---
-{% assign bourbon = site.data.bourbon[page.id] %}
-<h1>{{bourbon.name}}</h1>
+{% assign id = site.data.bourbons[page.id] %}
+<h1>{{id.Name}}</h1>
 <h2>General</h2>
-<p><a href="{{bourbon.URL}}">Website</a></p>
-<p>Distiller: {{bourbon.Distiller}}</p>
-<p>Location: {{bourbon.Location}}</p>
-<p>MSRP: {{bourbon.MSRP}}</p>
-<p>Mash bill: {{bourbon.Mash_Bill}}</p>
+<p><a href="{{id.URL}}">Website</a></p>
+<p>Distiller: {{id.Distiller}}</p>
+<p>Location: {{id.Location}}</p>
+<p>MSRP: {{id.MSRP}}</p>
+<p>Proof: {{id.Proof}}</p>
+<p>Mash bill: {{id.Mash_Bill}}</p>
+<p>Age: {{id.Age}}</p>
 <h2>My notes</h2>
-<p>Date purchased: {{bourbon.Date_purchased}}</p>
-<p>Where purchased: {{bourbon.Where_purchased}}</p>
-<p>Purchase price: {{bourbon.Purchase_price}}</p>
-<p>Size: {{bourbon.size}}</p>
-<p>Date finished: {{bourbon.Date_finished}}</p>
-<p>Notes: {{bourbon.Notes}}</p>
-<img src="{{bourbon.Image_URL}}" alt="{{bourbon.name}}">
+<p>Date purchased: {{id.Date_purchased}}</p>
+<p>Where purchased: {{id.Where_purchased}}</p>
+<p>Purchase price: {{id.Purchase_price}}</p>
+<p>Size: {{id.size}}</p>
+<p>Batch: {{id.Batch}}</p>
+<p>Bottle: {{id.Bottle}}</p>
+<p>Date finished: {{id.Date_finished}}</p>
+<p>Notes: {{id.Notes}}</p>
+<img src="{{id.Image_URL}}" alt="{{id.name}}">
