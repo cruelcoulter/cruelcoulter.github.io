@@ -1,6 +1,10 @@
 ---
 layout: default
-title: test 2
+title: Wish List
 ---
-<h1>This is another test</h1>
-<p>This is different content</p>
+<h1>These are the whiskeys I've heard about but haven't yet tried.</h1>
+<ul>
+{% for item in site.data.wish-list %}
+<li>{{item.Name}} - {{item.Where_Recommended}}</li>
+{% endfor %}
+</ul>

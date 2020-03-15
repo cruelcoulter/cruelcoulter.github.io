@@ -4,7 +4,8 @@ title: Home
 ---
     <h1>My Whiskey Journal</h1>
   <ul>
-    {% for item in site.data.bourbon %}
+    {% assign items = site.data.bourbons %}
+    {% for item in items %}
     <li><a href="/{{item.Site_URL}}">{{item.Name}}</a></li>
     {% endfor %}
   </ul>

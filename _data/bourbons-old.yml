@@ -1,5 +1,6 @@
+have-tried:
 - Name: Elijah Craig Small Batch
-  Slug: elijah-craig-small-batch
+  id: 10
   Site_URL: elijah-craig-small-batch.html
   URL: https://elijahcraig.com/small-batch
   Distiller: Heaven Hill
@@ -17,8 +18,9 @@
   Notes: null
   Batch: null
   Bottle: null
+
 - Name: Four Roses Small Batch
-  Slug: four-roses-small-batch
+  id: 20
   Site_URL: four-roses-small-batch.html
   URL: https://fourrosesbourbon.com/bourbon/small-batch/
   Distiller: something
@@ -36,8 +38,9 @@
   Notes: null
   Batch: null
   Bottle: null
+
 - Name: Old Bardstown Bottled in Bond
-  Slug: old-bardstown-bottled-in-bond
+  id: 30
   Site_URL: old-bardstown.html
   URL: https://www.kentuckybourbonwhiskey.com/the-whiskeys/old-bardstown-bottled-in-bond/
   Distiller: Willett
@@ -55,3 +58,11 @@
   Notes: null
   Batch: null
   Bottle: null
+
+want-to-try:
+- Name: McKenna Bottled in Bond
+
+- Name: Russels Reserve Single Barrel
+
+- Name: William Heavenhill 12-year
+  Where_Recommended: It's Bourbon Night Top Picks of 2019
