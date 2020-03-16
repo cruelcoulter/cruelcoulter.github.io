@@ -5,6 +5,10 @@ title: Wish List
 <h1>These are the whiskeys I've heard about but haven't yet tried.</h1>
 <ul>
 {% for item in site.data.wish-list %}
+{% if item.Where_Recommended == null %}
+<li>{{item.Name}}</li>
+{% else %}
 <li>{{item.Name}} - {{item.Where_Recommended}}</li>
+{% endif %}
 {% endfor %}
 </ul>
