@@ -3,23 +3,4 @@ layout: default
 title: Elijah Craig Small Batch
 id: 0
 ---
-{% assign id = site.data.bourbons[page.id] %}
-<h1>{{id.Name}}</h1>
-<h2>General</h2>
-<p><a href="{{id.URL}}">Website</a></p>
-<p>Distiller: {{id.Distiller}}</p>
-<p>Location: {{id.Location}}</p>
-<p>MSRP: {{id.MSRP}}</p>
-<p>Proof: {{id.Proof}}</p>
-<p>Mash bill: {{id.Mash_Bill}}</p>
-<p>Age: {{id.Age}}</p>
-<h2>My notes</h2>
-<p>Date purchased: {{id.Date_Purchased}}</p>
-<p>Where purchased: {{id.Where_Purchased}}</p>
-<p>Purchase price: {{id.Purchase_Price}}</p>
-<p>Size: {{id.Size}}</p>
-<p>Batch: {{id.Batch}}</p>
-<p>Bottle: {{id.Bottle}}</p>
-<p>Date finished: {{id.Date_Finished}}</p>
-<p>Notes: {{id.Notes}}</p>
-<img src="{{id.Image_URL}}" alt="{{id.Name}}">
+{% include grid_layout.html %}

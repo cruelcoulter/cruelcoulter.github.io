@@ -1,0 +1,125 @@
+{% assign id = site.data.bourbons[page.id] %}
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-9">
+      <h1><a href="{{id.URL}}">{{id.Name}}</a></h1>
+<h2>General</h2>
+
+      <div class="row">
+        <div class="col-4">
+        Distiller
+        </div><!--/col-4-->
+        <div class="col-8">
+          {{id.Distiller}}
+        </div><!--/col-8--->
+      </div><!--/row1-->
+      <div class="row">
+        <div class="col-4">
+          Location
+        </div><!--/col-4-->
+        <div class="col-8">
+          {{id.Location}}
+        </div><!--/col-8--->
+      </div><!--/row2-->
+      <div class="row">
+        <div class="col-4">
+          MSRP
+        </div><!--/col-4-->
+        <div class="col-8">
+          {{id.MSRP}}
+        </div><!--/col-8--->
+      </div><!--/row3-->
+      <div class="row">
+        <div class="col-4">
+          Proof
+        </div><!--/col-4-->
+        <div class="col-8">
+          {{id.Proof}} 
+        </div><!--/col-8--->
+      </div><!--/row4-->
+      <div class="row">
+        <div class="col-4">
+        Mash Bill
+        </div><!--/col-4-->
+        <div class="col-8">
+          {{id.Mash_Bill}}
+        </div><!--/col-8--->
+      </div><!--/row5-->
+      <div class="row">
+        <div class="col-4">
+          Age
+        </div><!--/col-4-->
+        <div class="col-8">
+          {{id.Age}}
+        </div><!--/col-8--->
+      </div><!--/row6-->
+      <div class="row">
+        <div class="col-4">
+        Date Purchased
+        </div><!--/col-4-->
+        <div class="col-8">
+          {{id.Date_Purchased}}
+        </div><!--/col-8--->
+      </div><!--/row7-->
+      <div class="row">
+        <div class="col-4">
+          Where Purchased
+        </div><!--/col-4-->
+        <div class="col-8">
+          {{id.Where_Purchased}}
+        </div><!--/col-8--->
+      </div><!--/row8-->
+      <div class="row">
+        <div class="col-4">
+          Purchase Price
+        </div><!--/col-4-->
+        <div class="col-8">
+          {{id.Purchase_Price}}
+        </div><!--/col-8--->
+      </div><!--/row9-->
+      <div class="row">
+        <div class="col-4">
+          Size
+        </div><!--/col-4-->
+        <div class="col-8">
+          {{id.Size}}
+        </div><!--/col-8--->
+      </div><!--/row10-->
+      <div class="row">
+        <div class="col-4">
+          Batch
+        </div><!--/col-4-->
+        <div class="col-8">
+          {{id.Batch}}
+        </div><!--/col-8--->
+      </div><!--/row11-->
+      <div class="row">
+        <div class="col-4">
+          Bottle
+        </div><!--/col-4-->
+        <div class="col-8">
+          {{id.Bottle}}
+        </div><!--/col-8--->
+      </div><!--/row12-->
+      <div class="row">
+        <div class="col-4">
+          Date Finished
+        </div><!--/col-4-->
+        <div class="col-8">
+          {{id.Date_Finished}}
+        </div><!--/col-8--->
+      </div><!--/row13-->
+      <div class="row">
+        <div class="col-4">
+        Notes
+        </div><!--/col-4-->
+        <div class="col-8">
+          {{id.Notes}}
+        </div><!--/col-8--->
+      </div><!--/row14-->
+    </div><!--/col-9-->
+    <div class="col-3">
+    <img src="{{id.Image_URL}}" alt="{{id.Name}}">
+    </div><!--/col-3-->
+  </div><!--/row-->
+</div><!--/container-->

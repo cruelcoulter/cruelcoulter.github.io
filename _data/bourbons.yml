@@ -55,3 +55,22 @@
   Notes: null
   Batch: null
   Bottle: null
+- Name: Woodford Reserve Bourbon
+  Slug: woodford-reserve-bourbon
+  Site_URL: woodford-reserve-bourbon.html
+  URL: https://www.woodfordreserve.com/whiskey/straight-bourbon-whiskey/
+  Distiller: Woodford Reserve
+  Location: Versailles, KY
+  MSRP: null
+  Proof: 90.4
+  Mash_Bill: null
+  Age: null
+  Size: 375ml
+  Date_Purchased: Christmas 2020
+  Purchase_Price: gift
+  Where_Purchased: gift
+  Date_Finished: null
+  Image_URL: https://media.woodfordreserve.com/wp-content/uploads/v2/2019/12/26185045/Bourbon-Bottle-1.png
+  Notes: null
+  Batch: 0779
+  Bottle: 1740
