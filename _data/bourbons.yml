@@ -1,22 +1,4 @@
-- Name: Bulleit Rye
-  Slug: bulleit-rye
-  Site_URL: bulleit-rye.html
-  URL: https://www.bulleit.com/whiskeys/bulleit-rye/
-  Distiller: Bulleit Distilling Co.
-  Location: Lexington, KY
-  MSRP: null
-  Proof: 90
-  Mash_Bill: 95% rye, 5% malted barley
-  Age: null
-  Size: 750ml
-  Date_Purchased: October 2019
-  Purchase_Price: 23.99
-  Where_Purchased: Giant Eagle, Westlake, Ohio
-  Date_Finished: 1/30/2020
-  Image_URL: https://www.bulleit.com/images/products/out/1200/bulleit-rye.jpg
-  Notes: null
-  Batch: null
-  Bottle: null
+#0 - keep items in order
 - Name: Elijah Craig Small Batch
   Slug: elijah-craig-small-batch
   Site_URL: elijah-craig-small-batch.html
@@ -36,6 +18,7 @@
   Notes: "My favorite bourbon so far. Aromatic and fruity"
   Batch: null
   Bottle: null
+#1
 - Name: Four Roses Small Batch
   Slug: four-roses-small-batch
   Site_URL: four-roses-small-batch.html
@@ -55,6 +38,7 @@
   Notes: "Smooth and pleasant, but just a bit bland."
   Batch: null
   Bottle: null
+#2
 - Name: Old Bardstown Bottled in Bond
   Slug: old-bardstown-bottled-in-bond
   Site_URL: old-bardstown.html
@@ -74,6 +58,7 @@
   Notes: null
   Batch: null
   Bottle: null
+#3
 - Name: Woodford Reserve Bourbon
   Slug: woodford-reserve-bourbon
   Site_URL: woodford-reserve-bourbon.html
@@ -93,3 +78,24 @@
   Notes: null
   Batch: 0779
   Bottle: 1740
+#4
+- Name: Bulleit Rye
+  Slug: bulleit-rye
+  Site_URL: bulleit-rye.html
+  URL: https://www.bulleit.com/whiskeys/bulleit-rye/
+  Distiller: Bulleit Distilling Co.
+  Location: Lexington, KY
+  MSRP: null
+  Proof: 90
+  Mash_Bill: 95% rye, 5% malted barley
+  Age: null
+  Size: 750ml
+  Date_Purchased: October 2019
+  Purchase_Price: 23.99
+  Where_Purchased: Giant Eagle, Westlake, Ohio
+  Date_Finished: 1/30/2020
+  Image_URL: https://www.bulleit.com/images/products/out/1200/bulleit-rye.jpg
+  Notes: null
+  Batch: null
+  Bottle: null
+#5
