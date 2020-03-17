@@ -9,31 +9,31 @@
   Mash_Bill: 78% Corn 10% Rye 12% Malted Barley per Breaking Bourbon
   Age: null
   Size: 750ml
-  Date_Purchased: 3/4/2020
-  Purchase_Price: gift
-  Where_Purchased: gift
+  Date_Purchased: 2/9/2020
+  Purchase_Price: 29.99
+  Where_Purchased: Giant Eagle, North Olmsted, Ohio
   Date_Finished: null
-  Image_URL: null
-  Notes: null
+  Image_URL: /assets/elijah-craig-small-batch.png
+  Notes: "My favorite bourbon so far. Aromatic and fruity"
   Batch: null
   Bottle: null
 - Name: Four Roses Small Batch
   Slug: four-roses-small-batch
   Site_URL: four-roses-small-batch.html
   URL: https://fourrosesbourbon.com/bourbon/small-batch/
-  Distiller: something
-  Location: somewhere
-  MSRP: 23.99
-  Proof: 101
+  Distiller: Four Roses Distillery
+  Location: Lawrenceburg, KY
+  MSRP: 30.99
+  Proof: 90
   Mash_Bill: null
   Age: null
   Size: 750ml
-  Date_Purchased: 3/4/2020
-  Purchase_Price: gift
-  Where_Purchased: gift
+  Date_Purchased: 11/15/2019
+  Purchase_Price: 30.99
+  Where_Purchased: Giant Eagle, Westlake, Ohio
   Date_Finished: null
-  Image_URL: null
-  Notes: null
+  Image_URL: https://fourrosesbourbon.com/wp-content/uploads/2018/11/3-1.jpg
+  Notes: "Smooth and pleasant, but just a bit bland."
   Batch: null
   Bottle: null
 - Name: Old Bardstown Bottled in Bond
@@ -42,12 +42,12 @@
   URL: https://www.kentuckybourbonwhiskey.com/the-whiskeys/old-bardstown-bottled-in-bond/
   Distiller: Willett
   Location: Bardstown, KY
-  MSRP: 23.99
-  Proof: 101
-  Mash_Bill: null
+  MSRP: null
+  Proof: 100
+  Mash_Bill: "72% Corn, 13% Rye, 15% Malted Barley, per <a href=\"https://www.breakingbourbon.com/review/old-bardstown-bottled-in-bond-bourbon\">Breaking Bourbon</a>"
   Age: null
   Size: 750ml
-  Date_Purchased: 3/4/2020
+  Date_Purchased: 2018
   Purchase_Price: gift
   Where_Purchased: gift
   Date_Finished: null
