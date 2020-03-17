@@ -1,3 +1,22 @@
+- Name: Bulleit Rye
+  Slug: bulleit-rye
+  Site_URL: bulleit-rye.html
+  URL: https://www.bulleit.com/whiskeys/bulleit-rye/
+  Distiller: Bulleit Distilling Co.
+  Location: Lexington, KY
+  MSRP: null
+  Proof: 90
+  Mash_Bill: 95% rye, 5% malted barley
+  Age: null
+  Size: 750ml
+  Date_Purchased: October 2019
+  Purchase_Price: 23.99
+  Where_Purchased: Giant Eagle, Westlake, Ohio
+  Date_Finished: 1/30/2020
+  Image_URL: https://www.bulleit.com/images/products/out/1200/bulleit-rye.jpg
+  Notes: null
+  Batch: null
+  Bottle: null
 - Name: Elijah Craig Small Batch
   Slug: elijah-craig-small-batch
   Site_URL: elijah-craig-small-batch.html
@@ -32,7 +51,7 @@
   Purchase_Price: 30.99
   Where_Purchased: Giant Eagle, Westlake, Ohio
   Date_Finished: null
-  Image_URL: https://fourrosesbourbon.com/wp-content/uploads/2018/11/3-1.jpg
+  Image_URL: https://img.thewhiskyexchange.com/900/brbon_fou7.jpg
   Notes: "Smooth and pleasant, but just a bit bland."
   Batch: null
   Bottle: null
