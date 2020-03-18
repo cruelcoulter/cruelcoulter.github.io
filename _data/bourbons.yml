@@ -138,3 +138,23 @@
   Notes: null
   Batch: null
   Bottle: null
+#7
+- Name: Old Forester 100 proof
+  Slug: old-forester-100-proof
+  Site_URL: old-forester-100-proof.html
+  URL: https://www.oldforester.com/products/old-forester-100-proof/
+  Distiller: Old Forester
+  Location: Louisville, KY
+  MSRP: null
+  Proof: 100
+  Mash_Bill: "72% corn, 18% rye, per <a href=\"https://modernthirst.com/home/bourbon-whiskey-mash-bills/\">Modern Thirst</a>"
+  Age: null
+  Size: 750ml
+  Date_Purchased: 12/18/19
+  Purchase_Price: 20.69
+  Where_Purchased: Giant Eagle, Rocky River, Ohio
+  Date_Finished: null
+  Image_URL: https://static.oldforester.com/app/uploads/2019/06/28193837/100-and-Old-Fashioned-Recipe-Lockup.png
+  Notes: null
+  Batch: null
+  Bottle: null
