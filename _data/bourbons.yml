@@ -179,3 +179,23 @@
   Batch: null
   Bottle: null
 #9
+- Name: 1792 Small Batch
+  Slug: 1792-small-batch
+  Site_URL: 1792-small-batch.html
+  URL: https://1792bourbon.com/our-bourbon
+  Distiller: The Barton 1792 Distillery
+  Location: Bardstown, KY
+  MSRP: null
+  Proof: 93.7
+  Mash_Bill: Unknown
+  Age: null
+  Size: null
+  Date_Purchased: 2/11/20
+  Purchase_Price: 30.99
+  Where_Purchased: Minotti's, Avon, Ohio
+  Date_Finished: null
+  Image_URL: https://global-uploads.webflow.com/5ace2bae31f6d3c07d267cb9/5c68dc4c3caa28dabcb74ee2_1792-small-batch-01a.jpg
+  Notes: "After enjoying the Elijah Craig Small Batch so much, I found this disappointing at first. It leaves the same feeling in my mouth that I get after chewing cinnamon gum. Now that I read in Breaking Bourbon that 1792 is a high rye blend, it makes more sense."
+  Batch: null
+  Bottle: null
+#10
