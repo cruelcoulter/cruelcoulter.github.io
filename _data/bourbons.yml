@@ -199,3 +199,23 @@
   Batch: null
   Bottle: null
 #10
+- Name: Evan Williams
+  Slug: evan-williams
+  Site_URL: evan-williams.html
+  URL: https://evanwilliams.com
+  Distiller: Heaven Hill
+  Location: Bardstown, KY
+  MSRP: null
+  Proof: 84
+  Mash_Bill: "78% corn, 12% rye, and 10% malted barley, per <a href=\"https://modernthirst.com/home/bourbon-whiskey-mash-bills/\">Modern Thirst</a>"
+  Age: null
+  Size: 750ml
+  Date_Purchased: 12/18/19
+  Purchase_Price: 11.99
+  Where_Purchased: Giant Eagle, Rocky River, Ohio
+  Date_Finished: 3/24/20
+  Image_URL: https://evanwilliams.com/images/bottles/ew-black.png
+  Notes: Good everyday bourbon.
+  Batch: null
+  Bottle: null
+#11
