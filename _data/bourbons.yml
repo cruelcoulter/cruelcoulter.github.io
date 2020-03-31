@@ -5,7 +5,7 @@
   URL: https://elijahcraig.com/small-batch
   Distiller: Heaven Hill
   Location: Bardstown KY
-  MSRP: null
+  Cost: $$
   Proof: 94
   Mash_Bill: 78% Corn 10% Rye 12% Malted Barley per Breaking Bourbon
   Age: null
@@ -25,7 +25,7 @@
   URL: https://fourrosesbourbon.com/bourbon/small-batch/
   Distiller: Four Roses Distillery
   Location: Lawrenceburg, KY
-  MSRP: 30.99
+  Cost: $$$
   Proof: 90
   Mash_Bill: null
   Age: null
@@ -45,7 +45,7 @@
   URL: https://www.kentuckybourbonwhiskey.com/the-whiskeys/old-bardstown-bottled-in-bond/
   Distiller: Willett
   Location: Bardstown, KY
-  MSRP: null
+  Cost: null
   Proof: 100
   Mash_Bill: "72% Corn, 13% Rye, 15% Malted Barley, per <a href=\"https://www.breakingbourbon.com/review/old-bardstown-bottled-in-bond-bourbon\">Breaking Bourbon</a>"
   Age: null
@@ -65,7 +65,7 @@
   URL: https://www.woodfordreserve.com/whiskey/straight-bourbon-whiskey/
   Distiller: Woodford Reserve
   Location: Versailles, KY
-  MSRP: null
+  Cost: null
   Proof: 90.4
   Mash_Bill: null
   Age: null
@@ -85,7 +85,7 @@
   URL: https://www.bulleit.com/whiskeys/bulleit-rye/
   Distiller: Bulleit Distilling Co.
   Location: Lexington, KY
-  MSRP: null
+  Cost: $$
   Proof: 90
   Mash_Bill: 95% rye, 5% malted barley
   Age: null
@@ -105,7 +105,7 @@
   URL: https://www.georgedickel.com/tennessee-whiskies/no-12
   Distiller: George A. Dickel & Co.
   Location: Tullahoma, TN
-  MSRP: null
+  Cost: $
   Proof: 90
   Mash_Bill: 84% corn, 8% rye, 8% malted barley
   Age: null
@@ -125,7 +125,7 @@
   URL: https://www.buffalotracedistillery.com/
   Distiller: Buffalo Trace Distillery
   Location: Frankfort, KY
-  MSRP: null
+  Cost: $$$
   Proof: 90
   Mash_Bill: Unknown
   Age: null
@@ -145,7 +145,7 @@
   URL: https://www.oldforester.com/products/old-forester-100-proof/
   Distiller: Old Forester
   Location: Louisville, KY
-  MSRP: null
+  Cost: $$
   Proof: 100
   Mash_Bill: "72% corn, 18% rye, per <a href=\"https://modernthirst.com/home/bourbon-whiskey-mash-bills/\">Modern Thirst</a>"
   Age: null
@@ -165,7 +165,7 @@
   URL: https://wildturkeybourbon.com/
   Distiller: Wild Turkey
   Location: Lawrenceburg, KY
-  MSRP: null
+  Cost: $
   Proof: 101
   Mash_Bill: "75% Corn, 13% Rye, 12% Malted Barley, per Breaking Bourbon"
   Age: null
@@ -185,7 +185,7 @@
   URL: https://1792bourbon.com/our-bourbon
   Distiller: The Barton 1792 Distillery
   Location: Bardstown, KY
-  MSRP: null
+  Cost: $$$
   Proof: 93.7
   Mash_Bill: Unknown
   Age: null
@@ -205,7 +205,7 @@
   URL: https://evanwilliams.com
   Distiller: Heaven Hill
   Location: Bardstown, KY
-  MSRP: null
+  Cost: $
   Proof: 84
   Mash_Bill: "78% corn, 12% rye, and 10% malted barley, per <a href=\"https://modernthirst.com/home/bourbon-whiskey-mash-bills/\">Modern Thirst</a>"
   Age: null
