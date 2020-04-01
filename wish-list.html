@@ -6,9 +6,9 @@ title: Wish List
 <ul>
 {% for item in site.data.wish-list %}
 {% if item.Where_Recommended == null %}
-<li>{{item.Name}}</li>
+<li>{{item.Name}} ({{item.Cost}})</li>
 {% else %}
-<li>{{item.Name}} - {{item.Where_Recommended}}</li>
+<li>{{item.Name}} ({{item.Cost}}) - {{item.Where_Recommended}}</li>
 {% endif %}
 {% endfor %}
 </ul>
