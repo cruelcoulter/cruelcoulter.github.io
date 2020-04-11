@@ -219,3 +219,43 @@
   Batch: null
   Bottle: null
 #11
+- Name: "Michter's Small Batch bourbon (US 1)"
+  Slug: michters-small-batch-bourbon
+  Site_URL: michters-small-batch-bourbon.html
+  URL: https://michters.com/kentucky-straight-bourbon/
+  Distiller: "Michter's"
+  Location: Louisville, KY
+  Cost: "$$$$ <a href=\"https://github.com/cruelcoulter/cruelcoulter.github.io/wiki\">Key</a>"
+  Proof: 91.4
+  Mash_Bill: "79% corn, 11% rye, 10% barley"
+  Age: null
+  Size: 750ml
+  Date_Purchased: 4/8/20
+  Purchase_Price: 40.99
+  Where_Purchased: Minotti's Avon
+  Date_Finished: null
+  Image_URL: /assets/michters-small-batch-bourbon.jpg
+  Notes: Quarantine/Easter 2020
+  Batch: "20B200 (not sure if this means anything)"
+  Bottle: null
+#12
+- Name: "Russell's Reserve 10-year"
+  Slug: russells-reserve-10-year
+  Site_URL: russells-reserve-10-year.html
+  URL: https://wildturkeybourbon.com/product/russells-reserve/
+  Distiller: Wild Turkey
+  Location: Lawrenceburg, KY
+  Cost: "$$$ <a href=\"https://github.com/cruelcoulter/cruelcoulter.github.io/wiki\">Key</a>"
+  Proof: 90
+  Mash_Bill: "75% corn, 13% rye, 12% barley, per <a href=\"https://www.thewhiskeyshelf.com/russells-reserve-10-year-bourbon-review/\">The Whiskey Shelf</a>"
+  Age: "&gt; 10 years"
+  Size: 750ml
+  Date_Purchased: 4/8/20
+  Purchase_Price: 34.99
+  Where_Purchased: Minotti's Avon
+  Date_Finished: null
+  Image_URL: /assets/russells-reserve-10-year.jpg
+  Notes: Quarantine/Easter 2020
+  Batch: null
+  Bottle: null
+#13
