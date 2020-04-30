@@ -232,7 +232,7 @@
   Size: 750ml
   Date_Purchased: 4/8/20
   Purchase_Price: 40.99
-  Where_Purchased: Minotti's Avon
+  Where_Purchased: Minotti's, Avon, Ohio
   Date_Finished: null
   Image_URL: /assets/michters-small-batch-bourbon.jpg
   Notes: "Bought during Quarantine/Easter 2020. Opened on my birthday. Taste notes: bright, floral taste. Hints of lemon and honey. Delicious."
@@ -252,10 +252,30 @@
   Size: 750ml
   Date_Purchased: 4/8/20
   Purchase_Price: 34.99
-  Where_Purchased: Minotti's Avon
+  Where_Purchased: Minotti's, Avon, Ohio
   Date_Finished: null
   Image_URL: /assets/russells-reserve-10-year.jpg
   Notes: Quarantine/Easter 2020
   Batch: null
   Bottle: null
 #13
+- Name: W.L. Weller Special Reserve
+  Slug: w-l-weller-special-reserve
+  Site_URL: w-l-weller-special-reserve.html
+  URL: https://www.buffalotracedistillery.com/brands/wl-weller#4
+  Distiller: Buffalo Trace Distillery
+  Location: Frankfort, KY
+  Cost: "$$ <a href=\"https://github.com/cruelcoulter/cruelcoulter.github.io/wiki\">Key</a>"
+  Proof: 90
+  Mash_Bill: corn with wheat instead of rye
+  Age: null
+  Size: 750ml
+  Date_Purchased: 4/29/20
+  Purchase_Price: 22.99
+  Where_Purchased: Giant Eagle, Westlake, Ohio
+  Date_Finished: null
+  Image_URL: "https://www.buffalotracedistillery.com/sites/default/files/weller%20special%20reserve%20brand%20page%5B1%5D.png"
+  Notes: null
+  Batch: null
+  Bottle: null
+#14
