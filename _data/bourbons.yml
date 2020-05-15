@@ -279,3 +279,23 @@
   Batch: null
   Bottle: null
 #14
+- Name: Rittenhouse Rye
+  Slug: rittenhouse-rye
+  Site_URL: rittenhouse-rye.html
+  URL: https://heavenhilldistillery.com/rittenhouse-rye.php
+  Distiller: Heaven Hill
+  Location: Bardstown, KY
+  Cost: "$$ <a href=\"https://github.com/cruelcoulter/cruelcoulter.github.io/wiki\">Key</a>"
+  Proof: 100
+  Mash_Bill: "51% Rye, 37% Corn, 12% Malted Barley, per <a href=\"https://www.breakingbourbon.com/review/rittenhouse-rye-bottled-in-bond\">Breaking Bourbon</a>"
+  Age: null
+  Size: 750ml
+  Date_Purchased: 5/12/20
+  Purchase_Price: 25.99
+  Where_Purchased: Minotti's Avon
+  Date_Finished: null
+  Image_URL: https://heavenhilldistillery.com/images/brands/rittenhouse.png
+  Notes: null
+  Batch: null
+  Bottle: null
+#15
