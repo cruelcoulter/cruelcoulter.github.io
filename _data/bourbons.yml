@@ -253,7 +253,7 @@
   Date_Purchased: 4/8/20
   Purchase_Price: 34.99
   Where_Purchased: Minotti's, Avon, Ohio
-  Date_Finished: null
+  Date_Finished: 7/24/20
   Image_URL: /assets/russells-reserve-10-year.jpg
   Notes: Quarantine/Easter 2020
   Batch: null
@@ -299,3 +299,23 @@
   Batch: null
   Bottle: null
 #15
+- Name: Four Roses (Yellow label)
+  Slug: four-roses
+  Site_URL: four-roses.html
+  URL: https://fourrosesbourbon.com/bourbon/four-roses-bourbon/
+  Distiller: Four Roses Distillery
+  Location: Lawrenceburg, KY
+  Cost: "$$ <a href=\"https://github.com/cruelcoulter/cruelcoulter.github.io/wiki\">Key</a>"
+  Proof: 80
+  Mash_Bill: null
+  Age: 5-year minimum
+  Size: 750ml
+  Date_Purchased: 4/8/20
+  Purchase_Price: 21.99
+  Where_Purchased: Minotti's Avon
+  Date_Finished: 8/6/20
+  Image_URL: null
+  Notes: null
+  Batch: null
+  Bottle: null
+#16
